@@ -2,7 +2,7 @@
 Prazer, eu me chamo Marcus, tenho 17 anos (2025) e sou apaixonado por tecnologia desde a minha infância, e foi por esse motivo que decidi me tornar um programador.
 Pretendo ingressar em uma faculdade de ADS (Análise e Desenvolvimento de Sistemas) e me tornar um Desenvolvedor BackEnd.
 - 🌱 Atualmente estou estudando o curso de Harvard - CS50X
-- 
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Marviw&theme=discord)](https://github.com/Marviw/github-profile-trophy)
 ![Marviw GitHub stats](https://github-readme-stats.vercel.app/api?username=Marviw&show_icons=true&theme=blue_navy) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marviw&layout=compact&theme=blue_navy)
 ## 📫 Se precisar de mim, contate-me por aqui
